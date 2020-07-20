@@ -1,3 +1,35 @@
-# test
+# test, this repository is a test for printf
 
-+ This repository its a test for the project **printf**.
+# Project:0x11.C-printf
+
+## Introduction:
+
+In this project, we are creating our own printf function. To do this project we must have in mind, all the concepts and resources that have be\
+en seen so far. Another thing to consider is the teamwork that must be done and follow the proposed *Framework*.
+
+## Description:
+
+
+
+## Requirements:
+
+### General:
+
++ Allowed editors: **vi**, **vim**, **emacs**
++ All your files will be compiled on Ubuntu 14.04 LTS
++ Your programs and functions will be compiled with **gcc 4.8.4** using the flags **-Wall -Werror -Wextra and -pedantic**
++ All your files should end with a new line
++ A **README.md file**, at the root of the folder of the project is mandatory
++ Your code should use the **Betty** style. It will be checked using betty-style.pl and betty-doc.pl
++ You are not allowed to use global variables
++ No more than 5 functions per file
++ In the following examples, the **main.c** files are shown as examples. You can use them to test your functions, but you don’t have to push t\
+hem to your repo (if you do we won’t take them into account). We will use our own **main.c** files at compilation. Our **main.c** files might \
+be different from the one shown in the examples
++ The prototypes of all your functions should be included in your header file called **holberton.h**
++ Don’t forget to push your header file
++ All your header files should be include guarded
++ Note that we will not provide the _putchar function for this project
+
+
+
