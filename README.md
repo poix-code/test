@@ -41,7 +41,7 @@ ine, you risk a 0% score.**
 add installation
 ## How to compie it:
 add it
-<span style="color:red">some **How to use it.** text</span>
+<font color='red'>test blue color font</font>
 add:
 
 
