@@ -39,13 +39,12 @@ ine, you risk a 0% score.**
 
 ## Installation:
 add installation
-How to compie it:
+## How to compie it:
 add it
-How to use it:
-add
+<span style="color:red">some **How to use it.** text</span>
+add:
 
-<center>Designed by Clara Castaño and Juan Uribe, cohort 12</center>
 
 ![alt text](https://camo.githubusercontent.com/80e4aef5357b80f03b960818a751e2be258ccc97/68747470733a2f2f7777772e686f6c626572746f6e7363686f6f6c2e636f6d2f686f6c626572746f6e2d6c6f676f2e706e67)
 
-
+**Designed by Clara Castaño and Juan Uribe, cohort 12.**
