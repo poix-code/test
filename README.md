@@ -21,7 +21,7 @@ n that can produce terminal outputs of all formats, like printf function also we
 + Your programs and functions will be compiled with **gcc 4.8.4** using the flags **-Wall -Werror -Wextra and -pedantic**
 + All your files should end with a new line
 + A **README.md file**, at the root of the folder of the project is mandatory
-+ Your code should use the **Betty** style. It will be checked using betty-style.pl and betty-doc.pl
++ Your code should use the **Betty** style. It will be checked using [betty-style.pl](https://github.com/holbertonschool/Betty/blob/master/betty-style.pl) and [betty-doc.pl](https://github.com/holbertonschool/Betty/blob/master/betty-doc.pl)
 + You are not allowed to use global variables
 + No more than 5 functions per file
 + In the following examples, the **main.c** files are shown as examples. You can use them to test your functions, but you don’t have to push t
@@ -41,10 +41,9 @@ ine, you risk a 0% score.**
 add installation
 ## How to compie it:
 add it
-<font color='red'>test blue color font</font>
 add:
 
 
-![alt text](https://camo.githubusercontent.com/80e4aef5357b80f03b960818a751e2be258ccc97/68747470733a2f2f7777772e686f6c626572746f6e7363686f6f6c2e636f6d2f686f6c626572746f6e2d6c6f676f2e706e67)
+![Holberton logo](https://camo.githubusercontent.com/80e4aef5357b80f03b960818a751e2be258ccc97/68747470733a2f2f7777772e686f6c626572746f6e7363686f6f6c2e636f6d2f686f6c626572746f6e2d6c6f676f2e706e67)
 
-**Designed by Clara Castaño and Juan Uribe, cohort 12.**
+**Designed by [Clara Castaño](https://github.com/ClaraCastaD) and [Juan Uribe](https://github.com/poix-code), cohort 12.**
