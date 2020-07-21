@@ -37,6 +37,18 @@ printf(1) , printf(3), man(1)
 
 No known bugs.
 
+.SH EXAMPLE
+
+To print a string
+
+#include "holberton.h"
+
+int main(void)
+{
+     _printf("Hello, Holberton");
+     return (0);
+}
+
 .SH AUTHORS
 
 .B Written by Clara Castaño and Juan Uribe
